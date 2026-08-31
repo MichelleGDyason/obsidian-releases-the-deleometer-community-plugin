@@ -35045,7 +35045,7 @@
     "id": "pdf-scholia-scribe",
     "name": "PDF Scholia Scribe",
     "author": "michellegdyason",
-    "description": "Citation-focused PDF & Docx annotation & collaboration, and note-linking for Obsidian. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Scholarly PDF and DOCX reading with Zotero citations, colour-preserving PDF annotation and Zotero note import, and portable collaboration. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "michellegdyason/pdf-scholia-scribe"
   },
   {
